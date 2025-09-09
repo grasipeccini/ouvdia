@@ -6,7 +6,6 @@ dependencies:
   - _libgcc_mutex==0.1=main
   - _openmp_mutex==5.1=1_gnu
   - aiofiles==22.1.0=py311h06a4308_0
-  - anyio==4.7.0=pyhd8ed1ab_0
   - aom==3.6.0=h6a678d5_0
   - asttokens==2.0.5=pyhd3eb1b0_0
   - blas==1.0=openblas
