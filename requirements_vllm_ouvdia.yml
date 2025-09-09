@@ -22,7 +22,6 @@ dependencies:
   - debugpy==1.6.7=py311h6a678d5_0
   - decorator==5.1.1=pyhd3eb1b0_0
   - dnspython==2.4.2=py311h06a4308_0
-  - email-validator==2.2.0=pyhd8ed1ab_1
   - email_validator==2.2.0=hd8ed1ab_1
   - exceptiongroup==1.2.2=pyhd8ed1ab_1
   - executing==0.8.3=pyhd3eb1b0_0
