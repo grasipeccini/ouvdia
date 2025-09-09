@@ -1,4 +1,4 @@
-name: /ouvdia/envs/vllm_env
+name: vllm_env
 channels:
   - https://repo.anaconda.com/pkgs/main
   - https://repo.anaconda.com/pkgs/r
