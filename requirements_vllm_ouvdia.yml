@@ -16,7 +16,6 @@ dependencies:
   - cairo==1.16.0=hb05425b_5
   - certifi==2024.12.14=py311h06a4308_0
   - cffi==1.17.1=py311h1fdaa30_0
-  - click==8.1.8=pyh707e725_0
   - colorama==0.4.6=pyhd8ed1ab_1
   - comm==0.2.1=py311h06a4308_0
   - cryptography==43.0.3=py311h7825ff9_1
