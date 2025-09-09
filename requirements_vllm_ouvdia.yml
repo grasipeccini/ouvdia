@@ -24,8 +24,6 @@ dependencies:
   - dnspython==2.4.2=py311h06a4308_0
   - executing==0.8.3=pyhd3eb1b0_0
   - expat==2.6.4=h6a678d5_0
-  - fastapi-cli==0.0.7=pyhd8ed1ab_0
-  - fastapi==0.115.6=pyhd8ed1ab_0
   - ffmpeg==6.1.1=he32514a_1
   - ffmpy==0.3.0=pyhb6f538c_0
   - filelock==3.16.1=pyhd8ed1ab_1
