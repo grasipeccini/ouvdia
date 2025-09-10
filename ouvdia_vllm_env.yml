@@ -1,4 +1,4 @@
-name: /ouvdia/envs/vllm_env
+name: vllm_env
 channels:
   - conda-forge
   - defaults
@@ -289,4 +289,4 @@ dependencies:
       - xxhash==3.5.0
       - yarl==1.18.3
       - zipp==3.21.0
-prefix: /ouvdia/envs/vllm_env
+prefix: /home/ouvdia/miniconda3/envs/vllm_env
