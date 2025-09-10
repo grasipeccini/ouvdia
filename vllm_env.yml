@@ -1,5 +1,0 @@
-name: vllm_env
-channels:
-  - https://repo.anaconda.com/pkgs/main
-  - https://repo.anaconda.com/pkgs/r
-prefix: /home/ouvdia/.conda/envs/vllm_env
